@@ -1,0 +1,24 @@
+file:/home/pi/minute/music/nou_rac1
+
+
+
+
+file:/home/pi/minute/music/wnyc
+
+
+
+
+spotify:/Starred
+
+
+
+
+spotify:/B Side
+
+
+
+
+spotify:/Discover Weekly
+
+
+
